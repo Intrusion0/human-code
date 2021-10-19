@@ -1,0 +1,113 @@
+// Implementare un layout assegnato come esercitazione pomeridiana
+
+Visualizzo l'esercizio assegnato da Simone su slack:
+        - Apro Slack
+        - Vado nella sezione "Canali"
+        - Cicco su: classe46_comunicazioni
+        - Leggo il messaggio scritto da Simone che contiene l'esercizio
+        - Scarico i file contenenti gli screen del layout
+        - Aggiungo una reazione per far capire che ho letto
+
+SE l'esercizio dovesse necessitare di un repository
+        - Creo un repository su Guthub
+                     - Apro Google Chrome
+                     - Apro la mia cartella dei preferiti e seleziono github
+                     - Clicco sull'icona del mio profilo
+                     - Seleziono "Your repositories"
+                     - Clicco su "New"
+                     - Inserisco il nome e la descrizione del repository
+                     - Clicco su "Create Repository"
+        - Clono il repository su Visual Studio Code
+                     - Apro Visual Studio Code
+                     - Clicco sull'icona "Explorer"
+                     - Clicco il pulsante "Clone Repository"
+                     - Clicco "Clone from GitHub" dal menù a tendina
+                     - Seleziono il nome del repository che avevo inserito poco prima su Github
+                     - Apro il file
+                    
+ALTRIMENTI SE l'esercizio dovesse essere un gioco e non dovesse necessitare di un repository
+        - Completo il gioco
+                     - Clicco sul link del gioco situato su slack
+                     - Incomincio il gioco
+                     - Finisco il gioco
+        - Faccio lo screen
+                     - Apro lo strumento di cattura
+                     - Ritaglio la zona in cui eseguire lo screen
+                     - Faccio lo screen
+                     - Salvo lo screen nella cartella "Download"
+        - Invio lo screen ai tutor
+                     - Apro slack
+                     - Cerco Loris Barbiero e Adriano Grimaldi nel menù situato a sinistra
+                     - Apro le seguenti chat
+                     - Invio lo screen
+    
+Incomincio ad esaminare il layout richiesto
+                     - Apro lo screen scaricato dal messaggio di Simone
+                     - Guardo il layout che dobbiamo riprodurre
+
+Creo i file necessari per visualizzare ciò che scriviamo
+                     - Apro Visual Studio Code
+                     - Seleziono il file che poco prima avevo clonato da Github
+                     - Creo all'interno un file chiamato: Index.html
+                     - Creo una cartella all'interno chiamata: CSS
+                     - Creo un file all'interno della cartella CSS chiamato: style.css
+              
+SE il layout da riprodurre dovesse presentare delle immagini
+                     - Scarico le immagini da Slack
+                                   - Apro Slack
+                                   - Vado nella sezione: Classe46_comunicazioni 
+                                   - Individuo il messaggio di Simone contenente i file dell'esercizio
+                                   - Scarico i file
+                     - Creo un'altra cartella all'interno del repository chiamata: IMG
+                     - Inserisco le immagini scaricate all'interno della cartella IMG 
+                                   - Apro i file scaricati precedentemente
+                                   - Individuo le Immagini
+                                   - Copio tutte le immagini
+                                   - Le incollo nella cartella IMG creata nel repository
+
+ALTRIMENTI 
+                     - Continuo con la creazione del layout senza le immagini
+                     
+Incomincio a scrivere le prime righe di codice nel file: Index.html
+                     - Apro Visual Studio Code
+                     - Seleziono il file "Index.html" creato precedentemente
+                     - Scrivo: HTML:5 all'interno del file
+                     - Clicco il tasto: TAB
+                     - Inserisco il collegamento con il mio file CSS
+                                    - Scrivo: <link rel="stylesheet" href="css/style.css"> nella sezione HEAD
+                     - Incomincio a dare una struttura ben precisa al mio codice
+                     - Inserisco alcuni tag semantici: header - main - footer
+                     
+Incomincio a scrivere le prime righe di codice nel file: Style.css
+                     - Apro il file Style.css contenuto nella cartella CSS
+                     - Scrivo le regole generali
+                                    - * {margin:0
+                                    padding: 0
+                                    box-sizing: border-box}
+                     - Incomincio a scrivere le prime regole di debug per incominciare a visualizzare i primi blocchi sulla pagina
+                                    - background-color: x
+                                    - height: x
+                                    - width: x
+
+Visualizzo il lavoro svolto su google chrome
+                     - Apro il file "Index.html"
+                                    - Apro la cartella in cui ho salvato il mio repo
+                                    - Faccio il doppio clic sul file: Index.html
+                     - Visualizzo i primi blocchi di debug
+                     
+SE dovessi bloccarmi e non riuscire a continuare con l'esercizio
+                     - Apro un ticket su Slack
+                                     - Apro Slack
+                                     - Vado nella Sezione "App"
+                                     - Clicco su: Hotwell
+                                     - Scrivo il messaggio in cui esprimo il mio problema
+                                     - Trascino il mouse sopra il messaggio appena inviato
+                                     - Clicco sui tre puntini nel menù che è apparso a destra
+                                     - Clicco su "Nuova Richiesta"
+                                     - Clicco su "Conferma"
+                     - Aspetto che mi contattino in chat privata
+                     - Discuto del problema con il tutor
+                     - Risolvo il problema
+                     
+ALTRIMENTI 
+                     - Cerco il problema su Stackoverflow
