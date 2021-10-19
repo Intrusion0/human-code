@@ -1,2 +1,19 @@
 // attraversare un incrocio sulle strisce
 
+SE è presente un semaforo
+        - Attendo che diventi di colore verde
+        - Attraverso cautamente l'incrocio camminando sopra le strisce e guardando destra e sinistra eventualmente attreversino macchine
+        - Arrivo dall'altra parte dell'incrocio
+        
+ALTRIMENTI
+        - Guardo destra e sinistra per controllare che non passino macchine
+        
+        SE non sono presenti macchine sia a destra che a sinistra dell'incrocio 
+                  - Incomincio a camminare cautamente sopra le strisce controllando sempre destra e sinistra eventualmente attraversino macchine
+                  - Arrivo dall'altra parte dell'incrocio
+                  
+         ALTRIMENTI
+                  - Aspetto che non ci sia nessuna macchina che attraversi la strada
+                  
+       
+       
