@@ -96,6 +96,11 @@ Visualizzo il lavoro svolto su google chrome
                      - Visualizzo i primi blocchi di debug
                      
 SE dovessi bloccarmi e non riuscire a continuare con l'esercizio
+                     - Faccio un push all'esercizio
+                                     - Vado nella sezione "Source Control" nel menù di Visual Studio Code
+                                     - Eseguo uno Staging dei file
+                                     - Clicco sui tre puntini a destra della scritta: SOURCE CONTROL
+                                     - Clicco su: PUSH
                      - Apro un ticket su Slack
                                      - Apro Slack
                                      - Vado nella Sezione "App"
@@ -111,3 +116,9 @@ SE dovessi bloccarmi e non riuscire a continuare con l'esercizio
                      
 ALTRIMENTI 
                      - Cerco il problema su Stackoverflow
+
+Eseguo vari commit e Push dell'esercizio
+                     - Vado nella sezione "Source Control" nel menù di Visual Studio Code
+                     - Eseguo uno Staging dei file
+                     - Clicco sui tre puntini a destra della scritta: SOURCE CONTROL
+                     - Clicco su: PUSH
