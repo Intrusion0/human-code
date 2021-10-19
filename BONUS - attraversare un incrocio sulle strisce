@@ -1,4 +1,4 @@
-// attraversare un incrocio sulle strisce
+// attraversare un incrocio sulle strisce (soluzione semplice)
 
 SE è presente un semaforo
         - Attendo che diventi di colore verde
